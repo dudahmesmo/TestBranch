@@ -3,3 +3,6 @@ teste
 teste dnv
 duda
 mayara
+minnie
+sophi
+oliver
